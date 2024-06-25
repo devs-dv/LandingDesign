@@ -2,7 +2,7 @@
 
 ## Overview
 Welcome to the official repository for the AI-supported school website landing page! This project is a fully responsive landing page designed using Tailwind CSS and built with React + Vite. My goal is to create a modern, user-friendly interface that showcases the innovative AI features and educational resources offered by the school platform so this is only UI using Tailwind CSS built with React + Vite.
-You can view the live site here: [School AI Supported Website](https://your-vercel-project-url.vercel.app)
+You can view the live site here: [School AI Supported Website](https://edudesignflax.vercel.app/)
 
 ## Features
 - **Fully Responsive Design:** The landing page is designed to provide an optimal viewing experience across a wide range of devices, from desktop computers to mobile phones.
